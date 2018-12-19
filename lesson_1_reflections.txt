@@ -1,0 +1,10 @@
+Viewing a diff between two versions of a file helped me to see
+that robots will definitely conquer the mankind soon.
+I think that cons are that you can forget to save it in proper time.
+But pros is that you can save only that is really important.
+I think some version control systems, like Git, allow saving multiple files in one commit,
+while others, like Google Docs, treat each file separately only because
+its easier to search the diff in 1 log than in a couple.
+I don't know how I can use the commands git log and git diff 
+to view the history of files.
+With or without using the version control i am still confident.
